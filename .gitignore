@@ -127,10 +127,15 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
 mlenv3/
 Dataset/
 
+<<<<<<< HEAD
+mlenv3/
+Dataset/
+
+=======
+>>>>>>> 25330fbee936d1413db1c95cf7359ed7aa258a24
 # Spyder project settings
 .spyderproject
 .spyproject
